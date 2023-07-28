@@ -1,0 +1,95 @@
+
+#Intro {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)),url("https://media.istockphoto.com/id/1419766496/photo/abstract-concepts-of-cybersecurity-technology-and-digital-data-protection-protect-internet.webp?b=1&s=170667a&w=0&k=20&c=ymHzOpQBTrldJ5egITZZAgfc7PGmxZ2bP83eo-KjARM=");
+    height: 450px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+body {
+    margin: 0px, 0px, 0px;
+    position: relative;
+}
+
+#Hi_me_div {
+    width:250px;
+    text-align: center;
+}
+
+.Extra{
+    background-color: #235591;
+}
+
+
+#list {
+    display: flex;
+    justify-content: space-around;
+    align-items: baseline;
+    text-decoration: none;
+} 
+
+
+#Hi_me_div p {
+    color: white;
+    font-weight: bold;
+    font-size: 35px; 
+    font-family: 'Montserrat', sans-serif;
+}
+
+#hi {
+    margin-bottom: 15px;
+}
+
+#name {
+    margin-top: 15px;
+}
+
+.header_elements {
+    float:right;
+}
+
+h2 {
+    text-align: center;
+}
+
+#About_me {
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+    text-align: center;
+}
+
+#font {
+    color: #c9ad01;
+}
+
+.the_boxes {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-family:'Montserrat', sans-serif;
+}
+
+.the_boxes p {
+    width: 400px;
+    font-size: 15px;
+    text-align: justify;
+    padding-left: 12px;
+    padding-right: 12px;
+}
+
+.clubs {
+    text-align: center;
+}
+
+.case_titles {
+    font-weight: bold;
+    font-size: 15px;
+}
+
+p {
+    text-align: center;
+}
